@@ -11,4 +11,7 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
 # Web3RSVP
+
+A Web3 RSVP application that uses : Solidity, React, Infura, TheGraph...
